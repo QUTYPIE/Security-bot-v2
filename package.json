@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.12.0",
+    "fs": "^0.0.1-security",
+    "indomitable": "^2.0.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quickmongo": "^5.2.0"
+  },
+  "name": "security-main",
+  "version": "1.0.0",
+  "description": "A well developed advanced security discord bot yet powerful",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punit9464/Security-Project.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "antinuk",
+    "security",
+    "advanced",
+    "overpowered",
+    "bot"
+  ],
+  "author": "Punit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Punit9464/Security-Project/issues"
+  },
+  "homepage": "https://github.com/Punit9464/Security-Project#readme"
+}
