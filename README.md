@@ -39,4 +39,3 @@ node .
 
 For support, Join Support Server of [Avon Development](https://discord.gg/aCbF3kPjMz)
 
-![Avon Development](https://media.discordapp.net/attachments/1068114938888982579/1069145724018761778/image.png)
